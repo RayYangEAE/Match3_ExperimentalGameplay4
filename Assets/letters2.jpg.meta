@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 10ad25624c96b004aadeab3b9da965e6
+timeCreated: 1490579896
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: letters2_0
+    21300002: letters2_1
+    21300004: letters2_2
+    21300006: letters2_3
+    21300008: letters2_4
+    21300010: letters2_5
+    21300012: letters2_6
+    21300014: letters2_7
+    21300016: letters2_8
+    21300018: letters2_9
+    21300020: letters2_10
+    21300022: letters2_11
+    21300024: letters2_12
+    21300026: letters2_13
+    21300028: letters2_14
+    21300030: letters2_15
+    21300032: letters2_16
+    21300034: letters2_17
+    21300036: letters2_18
+    21300038: letters2_19
+    21300040: letters2_20
+    21300042: letters2_21
+    21300044: letters2_22
+    21300046: letters2_23
+    21300048: letters2_24
+    21300050: letters2_25
+    21300052: letters2_26
+    21300054: letters2_27
+    21300056: letters2_28
+    21300058: letters2_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: letters2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 419
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 419
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 419
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 419
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 419
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 339
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 339
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 339
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 339
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 339
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 259
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 259
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 259
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 259
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 259
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 179
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 179
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 179
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 179
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 179
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 99
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 99
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 99
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 99
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 99
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 19
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 19
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 19
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letters2_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 19
+        width: 62
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
